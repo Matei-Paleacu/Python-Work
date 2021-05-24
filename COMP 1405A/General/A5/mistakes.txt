@@ -1,0 +1,7 @@
+rud,red,1
+smoke,pok,1
+ya,no,1
+pop,smoke,1
+rud,room,1
+I,g,1
+gg,ff,1

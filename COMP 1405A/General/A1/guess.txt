@@ -1,0 +1,13 @@
+import random
+
+target = random number from(0,65535)
+guess = int ( input "make a guess")
+while guess does not equal target:
+        if guess is smaller then target:
+            print " you number was to small"
+            guess = int(input " guess again")
+        else:
+            print " youre number was to large
+            guess = int(input " guess again")
+            
+print " good job you got it, it was" + target
